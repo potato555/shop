@@ -1,0 +1,11 @@
+html {
+  /* 底部导航的高度 */
+  --bottom-nav-height: 60rem;
+  --primary-color: #242424;
+  --secondary-color: #fff;
+  --border-color: #ddd;
+  --light-color: #666;
+  --hilight-color: tomato;
+  --success-color: green;
+  --warning-color: rgb(153, 4, 4);
+}
